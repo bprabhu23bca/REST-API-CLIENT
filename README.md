@@ -69,3 +69,7 @@ Conclusion
 Completing this REST API Client project was a significant learning experience. By using tools such as Java JDK, org.json library, Notepad, and Command Prompt, I successfully created a working client that fetches real-time weather data and displays it in a structured format. Working in the command-line environment allowed me to deeply understand the step-by-step process of writing, compiling, and executing Java programs.
 
 The project also highlighted the real-world importance of REST APIs and JSON parsing, both of which are essential in modern application development. I believe the knowledge I gained through this task will be valuable in future academic projects as well as in my professional career, where REST APIs play a central role in enabling software systems to communicate effectively.
+
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/4f5f8af6-6a3c-46ca-92f4-b0aed4c3ae5d)
